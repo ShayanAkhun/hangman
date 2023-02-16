@@ -55,7 +55,7 @@ function App() {
     }
   }, [guessedLetters])
 
-
+  console.log(words)
 
   return (
     <div
